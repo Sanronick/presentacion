@@ -2,12 +2,10 @@
     font-family: 'Verdana';
 }
 .principal{
-    
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
-
 .contenedor{
     background: url(../img/02.jpg) center;
     border: 2px solid rgb(175,175,175);
